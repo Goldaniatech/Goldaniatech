@@ -1,9 +1,9 @@
 <!--  URL: https://github.com/Goldanniyatech/Goldanniyatech -->
-# Yoann Amar Assouline | [Goldaniatech](https://www.goldaniatech.com/)
+# Yoann Amar-Assouline | [Goldaniatech](https://www.goldaniatech.com/)
 
-[![Goldanniyatech Banner](Data/Goldanniyatech-Banner.jpg)](https://www.goldanniyatech.com/)
+[![Goldanniyatech Banner](Data/Goldaniatech-Banner.jpg)](https://www.goldaniatech.com/)
 
-Hello there 😎! I'm a **3D Game Developer**, **Computer Science Instructor**, and **PhD in Semiotics**.
+Hello there 😎! I'm a **3D Software Developer**, **Computer Science Instructor**, **PhD in Semiotics**, and **Founder of Goldaniatech**.
 
 **Goldaniatech** is an urban fantasy action-adventure game, solo‑developed by me from scratch using **Blender**, **Unreal Engine** (Blueprints and C++), and other tools. 
 
